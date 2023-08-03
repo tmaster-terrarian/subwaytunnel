@@ -1,0 +1,5 @@
+Palette: 17
+overseersMin: 0
+overseersMax: 1
+playerGuideOverseerSpawnChance: 0.2
+Subregion: Subway Tunnel

@@ -1,0 +1,9 @@
+{
+	"id": "bscit.subwaytunnel",
+	"name": "Subway Tunnel",
+	"authors": "bscit",
+	"description": "Adds a new region that fills the wide gap between Subterranean and Shoreline.",
+	"requirements": ["regionkit"],
+	"requirements_names": ["RegionKit"],
+	"checksum_override_version": false
+}
