@@ -1,5 +1,7 @@
-Palette: 17
+
+Palette: 13
 overseersMin: 0
 overseersMax: 1
 playerGuideOverseerSpawnChance: 0.2
+Room Setting Templates: subway
 Subregion: Subway Tunnel
