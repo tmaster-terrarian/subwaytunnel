@@ -13,4 +13,4 @@ Palette: 13
 EffectColorA: 19
 EffectColorB: 6
 FadePalette: 10, 0.6956522
-Effects: Fog-0.6195652-0-0, 
+Effects: Fog-0.6195652-0-0,

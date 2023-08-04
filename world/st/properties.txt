@@ -1,4 +1,3 @@
-
 Palette: 13
 overseersMin: 0
 overseersMax: 1
