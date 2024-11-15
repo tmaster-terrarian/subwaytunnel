@@ -1,1 +1,3 @@
-[ADD]ST
+[MERGE]
+ST
+[ENDMERGE]

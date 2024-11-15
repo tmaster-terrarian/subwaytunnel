@@ -1,4 +1,10 @@
-ST_A01: 72><-51><0><-70><0><NONE
-ST_A02: 168><63><64><6><2><Subway Tunnel
-OffScreenDen_st: -69><162><-110><98><0><
-Connection: ST_A01,ST_A02,37,8,20,1,3,3
+GATE_SB_ST: -330><-97.5><0><-70><1><
+GATE_ST_SL: 162><150><0><-70><1><
+ST_A01: -186><-106.5><0><-70><1><Subway Tunnel
+ST_TUNNEL01: 69><-159><0><-154><1><Subway Tunnel
+ST_A02: 6><222><64><6><1><Subway Tunnel
+ST_S02: 6><81><0><-70><2><
+OffScreenDen_st: -282><123><-110><98><0><
+Connection: GATE_SB_ST,ST_A01,36,5,10,8,3,3
+Connection: GATE_ST_SL,ST_A02,11,5,20,1,3,3
+Connection: ST_A01,ST_TUNNEL01,37,8,2,41,3,2
