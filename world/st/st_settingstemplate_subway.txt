@@ -10,7 +10,7 @@ SecondWaveAmplitude: 0
 Clouds: 0.4347826
 Grime: 0.12
 Palette: 13
-EffectColorA: 19
-EffectColorB: 6
+EffectColorA: 2
+EffectColorB: 7
 FadePalette: 10, 0.6956522
 Effects: Fog-0.6195652-0-0,
